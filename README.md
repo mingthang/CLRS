@@ -3,7 +3,7 @@ Solutions are written in C to "Introduction to Algorithms" by Cormen, Leiserson,
 
 ![](https://images-na.ssl-images-amazon.com/images/I/51n%2B3GEQvYL._SX433_BO1,204,203,200_.jpg)
 
-## SOLVED ANSWER
+## SOLVED EXERCISES
 
 <table class="table table-bordered table-striped table-condensed">
     <tr>
