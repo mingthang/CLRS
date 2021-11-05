@@ -1,5 +1,6 @@
-
-  ![alt text](https://images-na.ssl-images-amazon.com/images/I/51n%2B3GEQvYL._SX433_BO1,204,203,200_.jpg)
+<p align="center">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/41T0iBxY8FL._SX440_BO1,204,203,200_.jpg" width="350" title="CLRS">
+</p>
 
 # CLRS
 Solutions are written in C to "Introduction to Algorithms" by Cormen, Leiserson, Rivest, and Stein.
