@@ -1,5 +1,5 @@
 <p align="center">
-  ![](https://images-na.ssl-images-amazon.com/images/I/51n%2B3GEQvYL._SX433_BO1,204,203,200_.jpg)
+  ![alt text](https://images-na.ssl-images-amazon.com/images/I/51n%2B3GEQvYL._SX433_BO1,204,203,200_.jpg)
 </p>
 
 # CLRS
