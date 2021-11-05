@@ -1,7 +1,9 @@
+<p align="center">
+  <img src="https://i.imgur.com/ESwjKaR.png" height="150" alt="CLRS">
+</p>
+
 # CLRS
 Solutions are written in C to "Introduction to Algorithms" by Cormen, Leiserson, Rivest, and Stein.
-
-![](https://images-na.ssl-images-amazon.com/images/I/51n%2B3GEQvYL._SX433_BO1,204,203,200_.jpg)
 
 ## SOLVED EXERCISES
 
