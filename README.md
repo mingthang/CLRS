@@ -5,8 +5,6 @@ Solutions are written in C to "Introduction to Algorithms" by Cormen, Leiserson,
 
 ## SOLVED ANSWER
 
-***
-
 <table class="table table-bordered table-striped table-condensed">
     <tr>
         <td><font size="4px" color="#0x888888">Chapter</font></td>
@@ -27,4 +25,3 @@ Solutions are written in C to "Introduction to Algorithms" by Cormen, Leiserson,
 		<td align="center"><a href=""><font color="black">p</font></td>
     </tr>
 	
-***
