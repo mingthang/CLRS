@@ -18,9 +18,9 @@ Solutions are written in C to "Introduction to Algorithms" by Cormen, Leiserson,
     </tr>
           <tr>
     	<td align="center">II</td>
-		<td align="center"><a href=""><font color="black">1-1</font></td>
-		<td align="center"><a href=""><font color="black">1-2</font></td>
-		<td align="center"><a href=""><font color="black">1-3</font></td>
-		<td align="center"><a href=""><font color="black">1-4</font></td>
+		<td align="center"><a href=""><font color="black">2.1-1</font></td>
+		<td align="center"><a href=""><font color="black">2.1-2</font></td>
+		<td align="center"><a href=""><font color="black">2.1-3</font></td>
+		<td align="center"><a href=""><font color="black">2.1-4</font></td>
     </tr>
 	
