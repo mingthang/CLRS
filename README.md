@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Clrs3.jpeg" height="150" alt="CLRS">
+  ![](https://images-na.ssl-images-amazon.com/images/I/51n%2B3GEQvYL._SX433_BO1,204,203,200_.jpg)
 </p>
 
 # CLRS
